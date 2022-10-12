@@ -185,6 +185,13 @@ Now submit the pull request.
 
 Soon I'll be merging all your changes into the main branch of this project. You will get a notification email once the changes have been merged.
 
+## Sync your local files
+
+If you want to sync your fork with the local files simply enter:
+
+```
+git pull origin main
+```
 ## Where to go from here?
 
 Congrats! You just completed the standard _fork -> clone -> edit -> pull request_ workflow that you'll often encounter as a contributor!
