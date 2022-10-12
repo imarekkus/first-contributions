@@ -187,7 +187,7 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 
 ## Sync your local files
 
-If you want to sync your fork with the local files simply enter:
+If you want to sync your local files with the github version of repository simply enter:
 
 ```
 git pull origin main
